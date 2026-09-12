@@ -1,0 +1,6 @@
+{
+  "name": "SUMIT AI",
+  "description": "SUMIT AI - Smart AI learning companion with English, Hindi, and Marathi support, interactive quizzes, and homework assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
